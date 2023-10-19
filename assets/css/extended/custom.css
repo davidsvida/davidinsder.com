@@ -1,0 +1,26 @@
+body {
+    font-size: 17px;
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, apple color emoji, segoe ui emoji, segoe ui symbol, segoe ui, pingfang sc, hiragino sans gb, source han sans cn, microsoft yahei, helvetica neue, Helvetica, Arial, sans-serif;
+  
+    font-weight: 400;
+  }
+  
+  .breadcrumbs {
+    margin-bottom: 10px;
+    font-weight: 400;
+  }
+  
+  #menu a,
+  #menu .active {
+    font-weight: 600;
+  }
+  
+  .button {
+    margin: 5px;
+    padding: 5px
+  }
+  
+  .terms-tags li {
+    margin: 5px;
+  }
+  
