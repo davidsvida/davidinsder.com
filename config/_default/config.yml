@@ -1,11 +1,11 @@
 baseURL: "https://davidinsider.com/"
-title: Home
+title: David
 paginate: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: true
+buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
@@ -81,21 +81,7 @@ params:
   images: ["logo.svg"]
   comments: true
 
-  profileMode:
-    enabled: false
-    title: Hi \U0001F32E
-    imageUrl: "img/profile.jpg"
-    imageTitle: Sagar Chamling's Photo
-    imageWidth: 250
-    imageHeight: 250
-    subtitle: "A passionate full-stack software engineer and cyber security enthusiast. Explore my recent blog articles, where I write about my works, share valuable insights on emerging technologies, programming, networking and cybersecurity in a company accepted best practices and standards. Stay tuned for more!."
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
-      - name: "#tech"
-        url: blogs/tech
+
 
   homeInfoParams:
     enabled: true
@@ -121,7 +107,7 @@ params:
 
 
   label:
-    text: "cham11ng's blog"
+    text: "Home"
     # icon: "logo.png"
     # iconHeight: 35
 

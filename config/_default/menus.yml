@@ -1,6 +1,6 @@
 main:
   - name: About Me
-    url: about-me
+    url: about-me/about-me
     weight: 1
   - name: Search
     url: search
