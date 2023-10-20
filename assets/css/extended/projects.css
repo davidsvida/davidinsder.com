@@ -24,7 +24,7 @@
   .project-header {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: center;
     margin-bottom: 10px;
   
   }
@@ -35,6 +35,8 @@
   
   .small-icons {
     font-size: 19px;
+    display: flex
+    align-items: center;
   }
   
   .small-icons i {
@@ -48,8 +50,8 @@
   }
   
   .project h3 {
-    font-size: 18px;
-    margin-bottom: 10px;
+
+    margin-right: 10px;
     
   }
   
@@ -63,7 +65,7 @@
     color: inherit;
     transition: transform 0.2s ease-in-out;
   } 
-  .project-link:active {
+  .project:active {
     transform: scale(0.98);
   }
 
