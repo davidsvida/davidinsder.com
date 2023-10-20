@@ -1,8 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var projectDivs = document.querySelectorAll('.project');
+
+  projectDivs.forEach(function(projectDiv) {
+      projectDiv.addEventListener('click', function(event) {
+          // Prevent navigating if the click was on one of the small-icons (GitHub or Demo icons)
+          if (!event.target.closest('.small-icons')) {
+              window.open(projectDiv.getAttribute('data-project-link'), '_blank').focus();
+          }
+      });
+  });
+});
+</script>
+  </head>
+  <body>
 <div class="projects-section">
   <h2>{{ i18n "project-header" }}</h2>
   <div class="portfolio-projects">
     {{- range site.Data.projects.list }}
-    <div class="project">
+    <div class="project" data-project-link="{{ .projectLink }}">
       <div class="project-header">
         <i class="fa-regular fa-folder-open folder-icon"></i>
         <div class="small-icons">
@@ -16,11 +35,11 @@
           {{- end }}
         </div>
       </div>
-      <a href="{{ .projectLink }}" title="{{ .title }}" target="_blank" rel="noopener noreferrer me" class="project-link">
-        <h3>{{ .title }}</h3>
-      </a>
+      <h3>{{ .title }}</h3>
       <p>{{ .description }}</p>
     </div>
     {{- end }}
   </div>
 </div>
+</body>
+</html>

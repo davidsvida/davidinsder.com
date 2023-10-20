@@ -18,6 +18,7 @@
     padding: 20px;
     background: var(--entry);
     border-radius: 5px;
+    cursor: pointer
   }
   
   .project-header {
