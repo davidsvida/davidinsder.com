@@ -14,7 +14,6 @@ I am a computer enthusiast who is passionate about solving problems and learning
 
 <figure style="text-align: center;">
     <img src="/about-me/img/hello.png" width="500" style="display: block; margin-left: auto; margin-right: auto;">
-    <figcaption>My road trip to Yosemite Park</figcaption>
 </figure>
 
 ---
@@ -82,29 +81,16 @@ I believe that transferring to WGU (Western  Governors University) was one of th
 
 My girlfriend's mother was willing to sponsor my visa, and I was able to stay in Spain with my girlfriend while pursuing a degree that I loved; with all of these opportunities, how could I not have moved to Spain?  I was also in Europe, so I took advantage of this and decided to travel. 
 
-<div style="display: flex; justify-content: space-between; margin: 20px;">
-    <figure style="text-align: center;">
-        <img src="/about-me/img/IMG_3971.jpeg" alt="Katie" width="300" style="display: block; margin-left: auto; margin-right: auto;">
-    </figure>
-    <figure style="text-align: center;">
-        <img src="/about-me/img/IMG_3724.jpeg" alt="Katie" width="300" style="display: block; margin-left: auto; margin-right: auto;">
-    </figure>
-</div>
 
 
+There was a problem, though. Unlike my last university, I would have to pay for this one. Thankfully, my parents paid for it, but I didn't want to be a financial burden to them and make them pay for it for long. I had to finish the whole degree in one year so that my parents would not have to pay for another year. In order to do so, I spent a lot of time studying at public libraries. 
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/IMG_5168.jpg"  width="300" style="display: block; margin-left: auto; margin-right: auto;">
+</figure>
 
 
-
-There was a problem though. Unlike my last university, I would have to pay for this one. Thankfully, my parents payed for it, but I didn't want to be a financial burder to them and make them pay for it for long - I had to finish the whole degree in one year so that my parents would not have to pay for another year. I managed to finish the university in one year. It was a tremendous amount of work to finish all of the courses and to obtain all of the certifications in one year, but I was barely able to finish before the academic year would have ended. 
-
-There was a problem, though. Unlike my last university, I would have to pay for this one. Thankfully, my parents paid for it, but I didn't want to be a financial burden to them and make them pay for it for long. I had to finish the whole degree in one year so that my parents would not have to pay for another year. 
-
-
-I managed to finish the university in one year. It was a tremendous amount of work to complete all of the courses and obtain all of the certifications in one year, but I was barely able to finish before the academic year ended.
-
-
-
-
+I managed to finish the university in one year. It was a tremendous amount of work to complete all of the courses and obtain all of the certifications in one year, but I had finished just in time before the academic year ended.
 
 The nice thing about the university is that it allowed me to obtain certifications for free! Since they were free, I obtained them all. 
 - Amazon Web Services Certified Solutions Architect - Professional
@@ -114,17 +100,124 @@ The nice thing about the university is that it allowed me to obtain certificatio
 - CompTIA Security+
 - Linux Essentials - Linux Professional Institute (LPI)
 
- 
-
-I graduated in July of 2023 with a B.S. in Cloud Computing (A new degree my University was )
+I graduated in July of 2023 with a B.S. in Cloud Computing (A new degree my university had just created)
 
 
+## Career 
 
+This section is still under construction since, unfortunately, I have not had the opportunity to work in the industry yet. It's an ambitious goal of mine considering my age right now, but I am confident that I will be able to achieve it by 2023-24.
 
 ## Travels
+
+### USA
+
+
+After completing graduation, I wanted to go back home and see my family. I would go back to Missouri for a month - my girlfriend also came along. We had planned a road trip from Missouri to California. We went to Yosemite, San Francisco, Los Angeles, Las Vegas, Grand Canyon, Sedona, Santa Fe, Salt Lake City, Denver, Colorado Springs, Zion National Park, and more places. We had a lot of fun, and I couldn't have asked for a better way to celebrate the end of my university career.
+
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/santmonpier.jpg" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Sunset at the Santa Monica Pier</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/zion2.jpeg" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Zion</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/yosemite.jpg" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Yosemite</figcaption>
+</figure>
+
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/granc2.jpg" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Grand Canyon</figcaption>
+</figure>
+
+
+In 2021, I also got to go to the East Coast with my dad and brother. It was our first boys trip. I hope that in the future I will be able to travel more with my dad and brother. 
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/worldtrade.jpg" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>World Trade Center</figcaption>
+</figure>
+
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/ny.jpeg" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>The Statue of Liberty</figcaption>
+</figure>
+
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/harv.jpg" width="500" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>We brought our Stanford pride with us to Harvard!</figcaption>
+</figure>
+
+### Italy 
+
+While in Spain, my family came to visit me. They made me take a pause from my university studies and took me on a surprise vacation to Italy for a week! We went to Rome, Florence, Venice, Pisa, Naples, and Milan. It was nice to get to share my brother's first trip to Europe with him.
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/trevi-fountain.jpg" width="600" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Trevi Fountain</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/venice.jpeg" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Venice</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/Sistine-Chapel.jpeg" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Sistine Chapel </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/naples.jpg" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Naples Pizza</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/pisa.jpg" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Leaning Tower of Pisa</figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/Milan-Cathedral.jpg" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>Milan Cathedral</figcaption>
+</figure>
+
+
+
+### Spain
+
+I also got to travel inside of Spain. I went on a my girlfriend's family trip to see her grandma's home town where she grew up.  It was so interesting seeing the influence of the american base had in the town.
+
+
+
+
+Apart from that bigger trip, I went on several other smaller trips. One of them was to 
+Tosssa de Mar 
+
+
+South of Spain. 
 
 
 
 
 ## Family 
+
+
+
+In 2023, my brother graduated from Stanford University. My whole family went down to the west coast to attend his graduation. 
+
+<figure style="text-align: center;">
+    <img src="/about-me/img/stanford2.jpg" width="300" style="display: block; margin-left: auto; margin-right: auto;">
+    <figcaption>My brother, his friend, and I</figcaption>
+</figure>
+
+
 

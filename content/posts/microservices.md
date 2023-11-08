@@ -42,7 +42,7 @@ For example, let's say you have a user authentication service, a product catalog
 -   Determine which functions can be broken down into smaller, independent services.
 -   Each microservice should be responsible for a single business function.
 
-### Develope 
+### Develop
 -   Develop each microservice independently.
 -   Each microservice should communicate with other microservices through APIs or other lightweight messaging protocols.
 -   Microservices can be developed using different programming languages, frameworks, and tools.
