@@ -1,9 +1,9 @@
 list:
-  - title: Processing...
-    description: HELLLLLLLOOOOOOOOOOOOOOOOO
-    projectLink: https://github.com
-    demoLink: https://ecom.davidinsider.com
+  - title: David's Guest Book
+    description: Serverless Web Application Backend using AWS Lambda, DynamoDB, API Gateway, S3, CloudFront, Route53, and Certificate Manager
+    projectLink: https://book.davidinsider.com
+    githubLink: https://github.com/davidsvida/book.davidinsider.com
   - title: Almost done...
     description: Turning Monolith EC2 Repo to Microservice and Serverless.
     projectLink: https://github.com
-    demoLink: https://micro.davidinsider.com
+    githubLink: https://micro.davidinsider.com
