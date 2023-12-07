@@ -33,7 +33,7 @@ outputs:
 
 params:
   env: production # To enable google analytics, opengraph, twitter-cards and schema.
-  description: "Explore insightful blog posts and discover content based on a wide range of emerging technologies, programming, networking, and cybersecurity."
+  description: "A nice little website made by david cepeda."
   keywords: [
       Portfolio,
       Site,
@@ -81,8 +81,6 @@ params:
   images: ["logo.svg"]
   comments: true
 
-
-
   homeInfoParams:
     enabled: true
     imageUrl: "profile.jpg"
@@ -97,14 +95,10 @@ params:
       url: "https://www.linkedin.com/in/davidcepeda05/"
     - name: ycombinator
       url: "https://news.ycombinator.com/user?id=davidsvida"
-    - name: other 
+    - name: other
       url: "https://docs.google.com/document/d/1i2J1ep5MFIYqG-mAg1iILxIVgpexzTRe"
     - name: spotify
       url: "https://open.spotify.com/user/dcepeda784"
-
-
-
-
 
   label:
     text: "Home"

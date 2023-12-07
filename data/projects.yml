@@ -1,7 +1,7 @@
 list:
   - title: David's Guest Book
-    description: Serverless Web Application Backend using AWS Lambda, DynamoDB, API Gateway, S3, CloudFront, Route53, and Certificate Manager
-    projectLink: https://book.davidinsider.com
+    description: Serverless Web Application using AWS Lambda, DynamoDB, API Gateway, S3, CloudFront, Route53, and Certificate Manager
+    projectLink: https://www.youtube.com/watch?v=KsXMpu3tWMM
     githubLink: https://github.com/davidsvida/book.davidinsider.com
   - title: Almost done...
     description: Turning Monolith EC2 Repo to Microservice and Serverless.
